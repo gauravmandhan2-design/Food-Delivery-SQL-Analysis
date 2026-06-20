@@ -1,3 +1,9 @@
+-- ============================================
+-- Food Delivery Business Analysis
+-- Author: Gaurav Mandhan
+-- File: Schema Creation
+-- ============================================
+
 USE food_delivery;
 
 -- ============================================
